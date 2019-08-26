@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "this is a great stream",
+      "id": 2
+    },
+    {
+      "title": "Not My stream",
+      "description": "this is best stream",
+      "id": 3
+    },
+    {
+      "title": "Other stream",
+      "description": "my other stream",
+      "id": 4
+    },
+    {
+      "title": "Wolfteam",
+      "description": "En süper oyun",
+      "id": 5
+    },
+    {
+      "title": "Aç kalak",
+      "description": "Osman abi kekodur. Osman Kurt",
+      "id": 7
+    },
+    {
+      "title": "Wolteam v2",
+      "description": "Buzgurt osman",
+      "userId": "108260618435470402512",
+      "id": 8
+    },
+    {
+      "title": "Pepega",
+      "description": "Omegalul",
+      "userId": "108260618435470402512",
+      "id": 9
+    }
+  ]
+}
